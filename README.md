@@ -11,7 +11,6 @@ make demo
 
 Then go to [http://localhost:3000](http://localhost:3000)
 
-
 ### Install
 
 ```Shell
@@ -21,7 +20,6 @@ component install techjacker/countdown
 ```Shell
 bower install techjacker/countdown
 ```
-
 
 ### Usage
 
