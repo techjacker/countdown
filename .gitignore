@@ -1,0 +1,12 @@
+#### packages
+# check in for NODE projects (not browser ones)
+node_modules/
+
+# check in for BROWSER projects (not node ones)
+#components/
+components-private # symlink to private modules
+
+#### logs
+temp.js
+*.sublime*
+*.log*

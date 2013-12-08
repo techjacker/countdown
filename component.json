@@ -1,0 +1,11 @@
+{
+  "name": "countdown",
+  "version": "0.0.1",
+  "description": "Countdown with CSS3 animations",
+  "repo": "techjacker/countdown",
+  "remotes": [],
+  "dependencies": {},
+  "styles": [
+    "css/styles.css"
+  ]
+}

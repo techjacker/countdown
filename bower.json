@@ -1,0 +1,12 @@
+{
+  "name": "countdown",
+  "version": "0.0.1",
+  "licenses": [{"type": "MIT"}],
+  "description": "Countdown with CSS3 animations",
+  "repo": "techjacker/countdown",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:techjacker/countdown.git"
+  },
+  "dependencies": {}
+}
